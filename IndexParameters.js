@@ -1,6 +1,6 @@
 var numposts = 999;
 var showpostthumbnails = true;
-var indexWidth = 4;
+var indexWidth = 3;
 var thumbWidth = "auto";
 var thumbHeight = "auto";
 var titleWidth = "auto";
